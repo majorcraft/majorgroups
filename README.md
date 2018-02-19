@@ -1,0 +1,2 @@
+# majorgroups
+Groupmanager
